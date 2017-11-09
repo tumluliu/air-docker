@@ -1,0 +1,18 @@
+{
+    "pg_datasource": {
+        "connection": {
+            "drivername": "postgres",
+            "host":       "localhost",
+            "port":       "5432",
+            "username":   "luliu",
+            "password":   "",
+            "database":   "tracksdb"
+        },
+        "pgbouncer": {
+            "host":       "localhost",
+            "port":       "6432",
+            "username":   "luliu",
+            "database":   "tracksdb"
+        }
+    }
+}
